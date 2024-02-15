@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lastchance/static/css/main.bfb6d714.css",
+    "main.js": "/lastchance/static/js/main.25a5070c.js",
+    "static/js/592.7f72a991.chunk.js": "/lastchance/static/js/592.7f72a991.chunk.js",
+    "index.html": "/lastchance/index.html",
+    "main.bfb6d714.css.map": "/lastchance/static/css/main.bfb6d714.css.map",
+    "main.25a5070c.js.map": "/lastchance/static/js/main.25a5070c.js.map",
+    "592.7f72a991.chunk.js.map": "/lastchance/static/js/592.7f72a991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfb6d714.css",
+    "static/js/main.25a5070c.js"
+  ]
+}
