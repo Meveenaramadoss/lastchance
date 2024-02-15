@@ -10,6 +10,7 @@ export default function Form() {
       <label>
         First name:
         <input
+        id='first-name'
           value={firstName}
           onChange={e => setFirstName(e.target.value)}
         />
@@ -17,13 +18,14 @@ export default function Form() {
       <label>
         Age:
         <input
+        id='age'
           value={age}
           onChange={e => setAge(e.target.value)}
           type="number"
         />
          
 
-        <button onClick={() => setAge(ageAsNumber + 10)}>
+        <button id ='button' onClick={() => setAge(ageAsNumber + 10)}>
           
           Add 10 years
         </button>
